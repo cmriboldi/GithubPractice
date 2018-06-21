@@ -12,7 +12,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // This is an awesome comment that will cause errors.
+        // This will cause an conflict. fo sho
     }
 
     override func didReceiveMemoryWarning() {
