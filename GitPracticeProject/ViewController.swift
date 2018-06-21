@@ -12,14 +12,45 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // This is an awesome comment that will cause errors.
+        // I changed this on the same file
     }
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
+        
     }
 
+
+    
+    
+    
+    func important() {
+        
+        
+        
+        
+        
+        
+        
+        
+        // the goods 
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    }
+    
+    
+    
+    
+    
+    
 
 }
 
